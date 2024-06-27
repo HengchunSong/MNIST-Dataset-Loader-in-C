@@ -1,4 +1,4 @@
-This repo will let you nevigate through all 60,000 training images and 6000 test images in visual form and their labels, till you exit the cmd mode.
+This repo will let you nevigate through all 60,000 training images and 10,000 test images in visual form and their labels, till you exit the cmd mode.
 
 
 Instruction:
