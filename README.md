@@ -10,5 +10,5 @@ Instruction:
    ![image](https://github.com/HengchunSong/MNIST-Dataset-Loader-in-C/assets/25832977/3bcfb7f6-085d-43b1-b763-4fd5e218fbeb)
 
 This is my first repo while studying neural network. There has been pioneer who created such dataloader in c, however it doesn't read beyond index 6. 
-And the issue reported hasn't been fixed after 6 years.
+And the issue reported hasn't been fixed after 6 years. So I decide to make one.
 https://github.com/takafumihoriuchi/MNIST_for_C
